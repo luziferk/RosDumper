@@ -1,0 +1,22 @@
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\bin\Debug\RosDumper.exe.config
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\bin\Debug\RosDumper.exe
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\bin\Debug\RosDumper.pdb
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\bin\Debug\RosDumper.xml
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.vbprojResolveAssemblyReference.cache
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.Resources.resources
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.vbproj.GenerateResource.cache
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.vbproj.CoreCompileInputs.cache
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.exe
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.xml
+C:\Users\F-stop\AppData\Local\Temporary Projects\RosDumper\obj\Debug\RosDumper.pdb
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\bin\Debug\RosDumper.exe.config
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\bin\Debug\RosDumper.exe
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\bin\Debug\RosDumper.pdb
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\bin\Debug\RosDumper.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.vbprojResolveAssemblyReference.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.Resources.resources
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.vbproj.GenerateResource.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.vbproj.CoreCompileInputs.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.exe
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\RosDumper\RosDumper\obj\Debug\RosDumper.pdb
